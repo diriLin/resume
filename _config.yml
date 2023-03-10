@@ -7,7 +7,7 @@ title: Wenhao Lin's Website
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Wenhao Lin
 language: en
 timezone: ''
 
@@ -102,4 +102,5 @@ theme: arknights
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/diriLin/resume
