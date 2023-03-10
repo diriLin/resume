@@ -61,9 +61,9 @@ prismjs:
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
-  path: ''
-  per_page: 10
-  order_by: -date
+  path: /about/index
+  # per_page: 10
+  # order_by: -date
 
 # Category & Tag
 default_category: uncategorized
@@ -104,3 +104,4 @@ theme: arknights
 deploy:
   type: git
   repo: https://github.com/diriLin/resume
+  branch: gh-pages
