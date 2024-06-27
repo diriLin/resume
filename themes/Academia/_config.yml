@@ -1,6 +1,6 @@
-favicon: /img/profile.png
+favicon: /img/profile.jpg
 # Change to your profile picture
-avatar: /img/avatar.jpg
+avatar: /img/profile.jpg
 # if author sets in hexo_config, this string doesn't work
 # author: 'Jason'
 author_bio: 'Ph.D. student, CUHK'
