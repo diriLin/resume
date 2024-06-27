@@ -12,7 +12,7 @@ date: 2023-03-10 16:18:26
 
 + B.Eng in Computer Science, **Harbin Institute of Technology(Shenzhen)**, 2019.8-2023.6
   + Graduate thesis is supervised by Assistant Prof. [Junjie Chen](http://faculty.hitsz.edu.cn/chenjunjie)
-  + Used to study machine learning applications in bioinformatics
+  + Machine learning applications in bioinformatics
 
 ### Publications
 + An Open-Source Fast Parallel Routing Approach for Commercial FPGAs [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649476.3658714)[[Code]](https://github.com/xszang/parallel-routing)
@@ -20,7 +20,7 @@ date: 2023-03-10 16:18:26
   + Conference: Great Lakes Symposium on VLSI 2024 (GLSVLSI'24)
 
 + iEnhancer-ELM: Improve Enhancer Identification by Extracting Multi-scale Contextual Information based on Enhancer Language Models [[Paper]](https://doi.org/10.1093/bioadv/vbad043) [[Code]](https://github.com/chen-bioinfo/iEnhancer-ELM)
-  + Author: Jiahao Li, Zhourun Wu, **Wenhao Lin**, Jiawei Luo, Jun Zhang, Qingcai Chen, Junjie Chen
+  + Authors: Jiahao Li, Zhourun Wu, **Wenhao Lin**, Jiawei Luo, Jun Zhang, Qingcai Chen, Junjie Chen
   + Journal: Bioinformatics Advances
 
 ### Awards
