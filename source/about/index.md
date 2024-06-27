@@ -10,14 +10,16 @@ date: 2023-03-10 16:18:26
   + Supervised by Prof. [Evangeline Young](https://www.cse.cuhk.edu.hk/~fyyoung/)
   + Focus on Electronic Design Automation (EDA)
 
-+ B.Eng in Computer Science, **Harbin Institute of Technology(Shenzhen)**, 2019.8-2023.6
++ B.Eng in Computer Science, **Harbin Institute of Technology (Shenzhen)**, 2019.8-2023.6
   + Graduate thesis is supervised by Assistant Prof. [Junjie Chen](http://faculty.hitsz.edu.cn/chenjunjie)
   + Machine learning applications in bioinformatics
 
 ### Publications
-+ Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs
+<!-- + Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs
   + Authors: Xinshi Zang, **Wenhao Lin**, Jinwei Liu, Evangeline F.Y. Young.
-  + Conference: International Conference on Computer-Aided Design 2024 (ICCAD'24)
+  + Conference: International Conference on Computer-Aided Design 2024 (ICCAD'24) -->
+
++ A paper is accepted by International Conference on Computer-Aided Design 2024 (ICCAD'24), coming soon.
 
 + An Open-Source Fast Parallel Routing Approach for Commercial FPGAs [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649476.3658714)[[Code]](https://github.com/xszang/parallel-routing)
   + Authors: Xinshi Zang, **Wenhao Lin**, Shiju Lin, Jinwei Liu, Evangeline F.Y. Young.
