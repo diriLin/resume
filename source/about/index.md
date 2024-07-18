@@ -15,11 +15,11 @@ date: 2023-03-10 16:18:26
   + Machine learning applications in bioinformatics
 
 ### Publications
-<!-- + Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs
++ Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs
   + Authors: Xinshi Zang, **Wenhao Lin**, Jinwei Liu, Evangeline F.Y. Young.
-  + Conference: International Conference on Computer-Aided Design 2024 (ICCAD'24) -->
+  + Conference: International Conference on Computer-Aided Design 2024 (ICCAD'24)
 
-+ [Coming soon] One paper is accepted by ICCAD'24.
+<!-- + [Coming soon] One paper is accepted by ICCAD'24. -->
 
 + An Open-Source Fast Parallel Routing Approach for Commercial FPGAs [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649476.3658714)[[Code]](https://github.com/Xilinx/fpga24_routing_contest/tree/2nd-cufr)[[Code]](https://github.com/xszang/parallel-routing)
   + Authors: Xinshi Zang, **Wenhao Lin**, Shiju Lin, Jinwei Liu, Evangeline F.Y. Young.
