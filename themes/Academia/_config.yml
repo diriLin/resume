@@ -3,7 +3,7 @@ favicon: /img/profile.jpg
 avatar: /img/profile.jpg
 # if author sets in hexo_config, this string doesn't work
 # author: 'Jason'
-author_bio: 'Ph.D. student, CUHK'
+# author_bio: 'Ph.D. student, CUHK'
 
 since: 2023
 
@@ -13,7 +13,7 @@ since: 2023
 menu:
   # Publications: /#Publications
   About: /
-  Resume: /attaches/CV_WenhaoLin.pdf
+  # Resume: /attaches/CV_WenhaoLin.pdf
   Friends: /friends.html
 
 # flink picture will load if avator link calls on error
@@ -43,7 +43,7 @@ e_social:
   enable: true
 e_social_links:
   Google Scholar: https://scholar.google.com/citations?user=Q-hbu9QAAAAJ || fas fa-graduation-cap
-  ORCID: https://orcid.org/0009-0007-3189-7868 || fab fa-orcid
+  # ORCID: https://orcid.org/0009-0007-3189-7868 || fab fa-orcid
 
 # CV download link
 cv_dl:
