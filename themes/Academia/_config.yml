@@ -48,7 +48,7 @@ e_social_links:
 # CV download link
 cv_dl:
   enable: false
-  dir: /attaches/CV_WenhaoLin.pdf
+  dir: /attaches/resume.pdf
   # description: My Detail CV.
 
 # Box-shadow
