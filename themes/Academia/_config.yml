@@ -13,8 +13,8 @@ since: 2023
 menu:
   # Publications: /#Publications
   About: /
-  # Resume: /attaches/CV_WenhaoLin.pdf
   Friends: /friends.html
+  Resume: /attaches/resume.pdf
 
 # flink picture will load if avator link calls on error
 loading_bg:
@@ -49,7 +49,7 @@ e_social_links:
 cv_dl:
   enable: false
   dir: /attaches/resume.pdf
-  # description: My Detail CV.
+  description: Resume
 
 # Box-shadow
 # display box-shadow on page or not
