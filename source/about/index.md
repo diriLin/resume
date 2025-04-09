@@ -16,7 +16,7 @@ date: 2023-03-10 16:18:26
 
 ### Publications
 
-+ Xinshi Zang, **Wenhao Lin**, Jinwei Liu, and Evangeline F.Y. Young. 2024. Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs. International Conference on Computer-Aided Design 2024 (ICCAD \'24). [[Paper]](/attaches/potter.pdf)
++ Xinshi Zang, **Wenhao Lin**, Jinwei Liu, and Evangeline F.Y. Young. 2024. Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs. International Conference on Computer-Aided Design 2024 (ICCAD \'24). [[Paper]](https://dl.acm.org/doi/10.1145/3676536.3676783)
 
 + Xinshi Zang, **Wenhao Lin**, Shiju Lin, Jinwei Liu, and Evangeline F.Y. Young. 2024. An Open-Source Fast Parallel Routing Approach for Commercial FPGAs. In Proceedings of the Great Lakes Symposium on VLSI 2024 (GLSVLSI \'24). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649476.3658714) [[Code]](https://github.com/xszang/parallel-routing)
   + Proposed techniques have been integrated into [RapidWright](https://github.com/xilinx/RapidWright) (an open-source framework for FPGA design developed by AMD Xilinx)!
