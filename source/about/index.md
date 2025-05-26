@@ -25,12 +25,19 @@ date: 2023-03-10 16:18:26
 
 + Jiahao Li, Zhourun Wu, **Wenhao Lin**, Jiawei Luo, Jun Zhang, Qingcai Chen, and Junjie Chen. 2023. iEnhancer-ELM: improve enhancer identification by extracting position-related multiscale contextual information based on enhancer language models. Bioinformatics Advances 3, 1 (January 2023), vbad043.  [[Paper]](https://doi.org/10.1093/bioadv/vbad043) [[Code]](https://github.com/chen-bioinfo/iEnhancer-ELM)
 
+### Awards
+
++ 2nd place in [Runtime-First FPGA Interchange Routing Contest @ FPGA \'24](https://xilinx.github.io/fpga24_routing_contest/) ([Team CUFR](https://github.com/Xilinx/fpga24_routing_contest/assets/90657806/780a30df-b7cc-483d-9bfb-f2f354b4d5d1#t=0.5))
++ 3rd place in [ICCAD 2023 CAD Contest](https://www.iccad-contest.org/2023/index.html) on "3D Placement with Macros" Problem (Team cadb1049)
+
 ### Working Experience
 
 + Internship, AMD Research and Advanced Development (RAD) (remote, 2024.8 - 2024.12)
   + End-of-internship talk: Multi-Threaded FPGA Routing Leveraging RapidWright
 
-### Awards
-
-+ 2nd place in [Runtime-First FPGA Interchange Routing Contest @ FPGA \'24](https://xilinx.github.io/fpga24_routing_contest/) ([Team CUFR](https://github.com/Xilinx/fpga24_routing_contest/assets/90657806/780a30df-b7cc-483d-9bfb-f2f354b4d5d1#t=0.5))
-+ 3rd place in [ICCAD 2023 CAD Contest](https://www.iccad-contest.org/2023/index.html) on "3D Placement with Macros" Problem (Team cadb1049)
+### Teaching
+Working as a teaching assistant:
++ CENG4120 Computer-aided Design for Very Large Scale Integrated Circuits (2025 Spring, CUHK)
++ CSCI1020 Hands-on Introduction to C++ (2024 Spring, CUHK)
++ CSCI1540 Fundamental Computing with C++ (2023 Fall, CUHK)
++ Operating System (2022 Fall, HITSZ)
