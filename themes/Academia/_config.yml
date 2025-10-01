@@ -13,8 +13,8 @@ since: 2023
 menu:
   # Publications: /#Publications
   About: /
-  Friends: /friends.html
-  Resume: /attaches/resume.pdf
+  # Friends: /friends.html
+  # Resume: /attaches/resume.pdf
 
 # flink picture will load if avator link calls on error
 loading_bg:
