@@ -4,19 +4,16 @@ permalink: index.html
 date: 2023-03-10 16:18:26
 ---
 
-### Education
+### Biography
+Wenhao Lin is a Ph.D. candidate at Department of Computer Science and Engineering, The Chinese University of Hong Kong, supervised by [Prof. Evangeline Young](https://www.cse.cuhk.edu.hk/~fyyoung/). Wenhao obtained his Bachelor of Engineering degree from Harbin Institute of Technology (Shenzhen) in June, 2023.
 
-+ Ph.D in Computer Science and Engineering, **The Chinese University of Hong Kong**, 2023.8 - present 
-  + Supervised by Prof. [Evangeline Young](https://www.cse.cuhk.edu.hk/~fyyoung/)
-  + Focus on Electronic Design Automation (EDA)
-
-+ B.Eng in Computer Science, **Harbin Institute of Technology (Shenzhen)**, 2019.8 - 2023.6
-  + Graduate thesis is supervised by Assistant Prof. [Junjie Chen](http://faculty.hitsz.edu.cn/chenjunjie)
-  + Machine learning applications in bioinformatics
+His research focuses on Electronic Design Automation (EDA).
 
 ### Publications
 
-+ Xinshi Zang, **Wenhao Lin**, Jinwei Liu, and Evangeline F.Y. Young. 2024. Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs. International Conference on Computer-Aided Design 2024 (ICCAD \'24). [[Paper]](https://dl.acm.org/doi/10.1145/3676536.3676783)
++ **Wenhao Lin**, Xinshi Zang, Zewen Li, and Evangeline F.Y. Young. 2025. An open-source high-concurrency and high-performance parallel router for UltraScale FPGAs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD \'25) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11075842) [[Code]](https://github.com/diriLin/Potter)
+
++ Xinshi Zang, **Wenhao Lin**, Jinwei Liu, and Evangeline F.Y. Young. 2024. Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs. International Conference on Computer-Aided Design 2024 (ICCAD \'24). [[Paper]](https://dl.acm.org/doi/10.1145/3676536.3676783) [[Code]](https://github.com/diriLin/Potter)
 
 + Xinshi Zang, **Wenhao Lin**, Shiju Lin, Jinwei Liu, and Evangeline F.Y. Young. 2024. An Open-Source Fast Parallel Routing Approach for Commercial FPGAs. In Proceedings of the Great Lakes Symposium on VLSI 2024 (GLSVLSI \'24). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649476.3658714) [[Code]](https://github.com/xszang/parallel-routing)
   + Proposed techniques have been integrated into [RapidWright](https://github.com/xilinx/RapidWright) (an open-source framework for FPGA design developed by AMD Xilinx)!
