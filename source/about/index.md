@@ -11,9 +11,11 @@ His research focuses on Electronic Design Automation (EDA).
 
 ### Publications
 
++ **Wenhao Lin**, Zewen Li, Xinshi Zang, and Evangeline F.Y. Young. 2026. RND: A Mixed-Grained Parallel Routing Framework with Region-based Net Decomposition for UltraScale FPGAs. In Proceedings of the International Symposium on Field-Programmable Gate Arrays 2026 (FPGA \'26)
+
 + **Wenhao Lin**, Xinshi Zang, Zewen Li, and Evangeline F.Y. Young. 2025. An open-source high-concurrency and high-performance parallel router for UltraScale FPGAs. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD \'25) [[Paper]](https://ieeexplore.ieee.org/abstract/document/11075842) [[Code]](https://github.com/diriLin/Potter)
 
-+ Xinshi Zang, **Wenhao Lin**, Jinwei Liu, and Evangeline F.Y. Young. 2024. Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs. International Conference on Computer-Aided Design 2024 (ICCAD \'24). [[Paper]](https://dl.acm.org/doi/10.1145/3676536.3676783) [[Code]](https://github.com/diriLin/Potter)
++ Xinshi Zang, **Wenhao Lin**, Jinwei Liu, and Evangeline F.Y. Young. 2024. Potter: A Parallel Overlap-Tolerant Router for UltraScale FPGAs. In Proceedings of the International Conference on Computer-Aided Design 2024 (ICCAD \'24). [[Paper]](https://dl.acm.org/doi/10.1145/3676536.3676783) [[Code]](https://github.com/diriLin/Potter)
 
 + Xinshi Zang, **Wenhao Lin**, Shiju Lin, Jinwei Liu, and Evangeline F.Y. Young. 2024. An Open-Source Fast Parallel Routing Approach for Commercial FPGAs. In Proceedings of the Great Lakes Symposium on VLSI 2024 (GLSVLSI \'24). [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649476.3658714) [[Code]](https://github.com/xszang/parallel-routing)
   + Proposed techniques have been integrated into [RapidWright](https://github.com/xilinx/RapidWright) (an open-source framework for FPGA design developed by AMD Xilinx)!
